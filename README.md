@@ -12,7 +12,7 @@ A more thorough description of windows.setTimeout() problems is found [here](htt
 
 Usage
 ------------
-A usage demo is available at [jsFiddle](http://jsfiddle.net/ckhoo/Lw7br/).
+A demo is available at [jsFiddle](http://jsfiddle.net/ckhoo/Lw7br/).
 
 License
 -------
