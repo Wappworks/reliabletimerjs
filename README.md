@@ -10,4 +10,6 @@ ReliableTimerJs is a Javascript library aimed at addressing shortcomings in wind
 
 A more thorough explanation of the problems with windows.setTimeout() can be found [here](http://www.wappworks.com/portfolio/reliabletimerjs/).
 
+License
+-------
 ReliableTimerJs is released under the MIT license.
